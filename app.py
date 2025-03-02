@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Showcase - Lionel Sultan",
+st.set_page_config(page_title="Lionel Sultan",
                    page_icon="🚀", layout="wide")
 
 st.sidebar.image("assets/photo.png", width=150)
